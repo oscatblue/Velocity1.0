@@ -30,3 +30,4 @@ for i in range (0,50):
     placa_anterior=placa
     placa=""
     time.sleep(random.randint(1,5))
+rrrrr
