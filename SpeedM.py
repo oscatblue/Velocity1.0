@@ -1,4 +1,4 @@
-
+#7:32
 for i in range (0,50):
     volado=random.randint(1,20)
     if volado % 3 ==  0:
