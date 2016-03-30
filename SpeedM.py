@@ -5,9 +5,10 @@ import time, random
 #otro cambio
 #abcdde
 #cambio 6:04 pm
+#cambio 6:54 pm
 from datetime import datetime, date
 
-
+variable = "otra"
 inicio = time.strftime("%Y%m%d")
 fin="1_1_12345_99"
 abc=['A','B','C','D','E','F','G','H','J','K','L','M','N','P','Q','R','S','T','U','V','W','X','Y','Z']
